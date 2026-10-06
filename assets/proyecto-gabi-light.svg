@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 234" width="960" height="234" role="img" aria-label="Proyecto GABI: Aplicación de escritorio para orquestar y monitorear bots RPA: registro en vivo, control de ejecución y avisos por correo. Tecnologías: Python, Tkinter, RPA.">
+<text x="0" y="22" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="1.2" fill="#6d28d9">03 / PROYECTOS DESTACADOS</text>
+<line x1="290" y1="44" x2="950" y2="44" stroke="rgba(91,62,145,0.22)"/>
+<text x="290" y="86" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13" fill="#6d28d9">01</text>
+<text x="360" y="94" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" letter-spacing="-1" fill="#0a0a0a">GABI</text>
+<text x="360" y="128" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#64748b">Aplicación de escritorio para orquestar y monitorear bots RPA:</text>
+<text x="360" y="152" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#64748b">registro en vivo, control de ejecución y avisos por correo.</text>
+<rect x="360" y="184" width="70.4" height="28" rx="14" fill="none" stroke="rgba(91,62,145,0.22)"/>
+<text x="395.2" y="202.5" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#64748b">Python</text>
+<rect x="438.4" y="184" width="77.80000000000001" height="28" rx="14" fill="none" stroke="rgba(91,62,145,0.22)"/>
+<text x="477.29999999999995" y="202.5" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#64748b">Tkinter</text>
+<rect x="524.2" y="184" width="48.2" height="28" rx="14" fill="none" stroke="rgba(91,62,145,0.22)"/>
+<text x="548.3000000000001" y="202.5" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#64748b">RPA</text>
+<circle cx="920" cy="86" r="24" fill="none" stroke="rgba(91,62,145,0.22)"/>
+<path d="M913 93 L927 79 M917 79 H927 V89" stroke="#0a0a0a" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

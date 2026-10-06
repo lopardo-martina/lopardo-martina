@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 240" width="960" height="240" role="img" aria-label="Sobre mí: el código vale cuando resuelve algo real. Estudio Ingeniería en Sistemas de Información en la UTN Facultad Regional Delta. Aprendo de forma autónoma lo que cada proyecto necesita y valoro el trabajo en equipo como parte central del desarrollo.">
+<text x="0" y="30" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="1.2" fill="#a78bfa">01 / SOBRE MÍ</text>
+<text x="290" y="48" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="600" letter-spacing="-1.2" fill="#ffffff">El código vale cuando</text>
+<text x="290" y="94" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="600" letter-spacing="-1.2" fill="#a78bfa">resuelve algo real.</text>
+<text x="290" y="146" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#a1a1aa">Estudio Ingeniería en Sistemas de Información en la UTN Facultad</text>
+<text x="290" y="176" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#a1a1aa">Regional Delta. Aprendo de forma autónoma lo que cada proyecto</text>
+<text x="290" y="206" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#a1a1aa">necesita y valoro el trabajo en equipo como parte central del desarrollo.</text>
+</svg>

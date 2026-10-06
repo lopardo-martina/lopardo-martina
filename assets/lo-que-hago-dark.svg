@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 186" width="960" height="186" role="img" aria-label="Lo que hago: Python: Django, APIs REST y SOAP; RPA: Bots con Robocorp; Web: React, Next.js y Node.js; Escritorio: Interfaces con Tkinter">
+<text x="0" y="30" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="1.2" fill="#a78bfa">02 / LO QUE HAGO</text>
+<rect x="290" y="10" width="154" height="166" rx="12" fill="#14141c" stroke="rgba(167,139,250,0.22)"/>
+<g transform="translate(310 30)"><path d="M8 6 L2 12 L8 18 M16 6 L22 12 L16 18 M14 4 L10 20" fill="none" stroke="#a78bfa" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="310" y="112" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#ffffff">Python</text>
+<text x="310" y="138" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#a1a1aa">Django, APIs REST</text>
+<text x="310" y="156" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#a1a1aa">y SOAP</text>
+<rect x="456" y="10" width="154" height="166" rx="12" fill="#14141c" stroke="rgba(167,139,250,0.22)"/>
+<g transform="translate(476 30)"><path d="M3 3 H10 V10 H3 Z M14 14 H21 V21 H14 Z M10 6.5 H17.5 V14" fill="none" stroke="#a78bfa" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="476" y="112" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#ffffff">RPA</text>
+<text x="476" y="138" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#a1a1aa">Bots con</text>
+<text x="476" y="156" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#a1a1aa">Robocorp</text>
+<rect x="622" y="10" width="154" height="166" rx="12" fill="#14141c" stroke="rgba(167,139,250,0.22)"/>
+<g transform="translate(642 30)"><path d="M12 2 A10 10 0 1 0 12.01 2 Z M2 12 H22 M12 2 C15 5 15 19 12 22 C9 19 9 5 12 2" fill="none" stroke="#a78bfa" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="642" y="112" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#ffffff">Web</text>
+<text x="642" y="138" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#a1a1aa">React, Next.js</text>
+<text x="642" y="156" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#a1a1aa">y Node.js</text>
+<rect x="788" y="10" width="154" height="166" rx="12" fill="#14141c" stroke="rgba(167,139,250,0.22)"/>
+<g transform="translate(808 30)"><path d="M3 4 H21 V20 H3 Z M3 9 H21 M6 6.5 H6.01 M9 6.5 H9.01" fill="none" stroke="#a78bfa" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="808" y="112" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#ffffff">Escritorio</text>
+<text x="808" y="138" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#a1a1aa">Interfaces con</text>
+<text x="808" y="156" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#a1a1aa">Tkinter</text>
+</svg>

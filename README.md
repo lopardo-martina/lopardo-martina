@@ -2,7 +2,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="960" alt="Martina Lopardo: automatizo procesos y construyo web. Desarrolladora Python especializada en automatización RPA y en desarrollo web con React y Next.js."></picture>
 
-
 <a href="https://lopardomartina.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg"><img src="assets/btn-portfolio-light.svg" width="224" alt="Ver mi portfolio"></picture></a>&nbsp;&nbsp;<a href="mailto:Martulopardo0@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img src="assets/btn-email-light.svg" width="150" alt="Escribirme por correo"></picture></a>
 
 <br><br>

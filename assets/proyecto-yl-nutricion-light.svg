@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 170" width="960" height="170" role="img" aria-label="Proyecto YL-Nutricion: DESCRIPCIÓN PENDIENTE Tecnologías: PENDIENTE.">
+<line x1="290" y1="4" x2="950" y2="4" stroke="rgba(91,62,145,0.22)"/>
+<text x="290" y="46" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13" fill="#6d28d9">02</text>
+<text x="360" y="54" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" letter-spacing="-1" fill="#0a0a0a">YL-Nutricion</text>
+<text x="360" y="88" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#64748b">DESCRIPCIÓN PENDIENTE</text>
+<rect x="360" y="120" width="92.60000000000001" height="28" rx="14" fill="none" stroke="rgba(91,62,145,0.22)"/>
+<text x="406.3" y="138.5" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#64748b">PENDIENTE</text>
+<circle cx="920" cy="46" r="24" fill="none" stroke="rgba(91,62,145,0.22)"/>
+<path d="M913 53 L927 39 M917 39 H927 V49" stroke="#0a0a0a" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

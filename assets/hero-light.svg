@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 430" width="960" height="430" role="img" aria-label="Martina Lopardo: automatizo procesos y construyo web. Desarrolladora Python especializada en automatización RPA y en desarrollo web con React y Next.js.">
+<rect x="1" y="10" width="318" height="30" rx="15" fill="rgba(91,62,145,0.06)" stroke="rgba(91,62,145,0.22)"/>
+<circle cx="20" cy="25" r="4.5" fill="#16a34a"/>
+<text x="34" y="29.5" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="11.5" letter-spacing="1" fill="#6d28d9">ABIERTA A OPORTUNIDADES LABORALES</text>
+<text x="0" y="112" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="-2.5" fill="#0a0a0a">Automatizo</text>
+<text x="0" y="174" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="-2.5" fill="#0a0a0a">procesos y</text>
+<text x="0" y="236" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="-2.5" fill="#6d28d9">construyo web.</text>
+<text x="0" y="318" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17.5" fill="#64748b">Soy Martina Lopardo, desarrolladora <tspan font-weight="700" fill="#0a0a0a">Python</tspan></text>
+<text x="0" y="348" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17.5" fill="#64748b">especializada en <tspan font-weight="700" fill="#0a0a0a">automatización RPA</tspan> y en</text>
+<text x="0" y="378" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17.5" fill="#64748b"><tspan font-weight="700" fill="#0a0a0a">desarrollo web</tspan> con React y Next.js.</text>
+<rect x="505" y="18" width="440" height="400" rx="14" fill="#eeedf5" stroke="rgba(91,62,145,0.22)"/>
+<circle cx="527" cy="40" r="5" fill="#ef4444"/>
+<circle cx="543" cy="40" r="5" fill="#eab308"/>
+<circle cx="559" cy="40" r="5" fill="#22c55e"/>
+<text x="725.0" y="44" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="11.5" fill="#64748b">~/lopardomartina/perfil.py</text>
+<text x="925" y="44" text-anchor="end" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="12" fill="#64748b">&gt;_</text>
+<line x1="505" y1="62" x2="945" y2="62" stroke="rgba(91,62,145,0.22)"/>
+<text x="525" y="98" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#a1a1aa">01</text>
+<text x="561" y="98" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13" xml:space="preserve"><tspan fill="#7e22ce">class </tspan><tspan fill="#0369a1">Martina</tspan><tspan fill="#0a0a0a">:</tspan></text>
+<text x="525" y="122" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#a1a1aa">02</text>
+<text x="561" y="122" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13" xml:space="preserve"><tspan fill="#7e22ce">    def </tspan><tspan fill="#0369a1">__init__</tspan><tspan fill="#0a0a0a">(</tspan><tspan fill="#be185d">self</tspan><tspan fill="#0a0a0a">):</tspan></text>
+<text x="525" y="146" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#a1a1aa">03</text>
+<text x="561" y="146" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13" xml:space="preserve"><tspan fill="#be185d">        self</tspan><tspan fill="#0a0a0a">.rol = </tspan><tspan fill="#c2410c">"Python Developer"</tspan></text>
+<text x="525" y="170" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#a1a1aa">04</text>
+<text x="561" y="170" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13" xml:space="preserve"><tspan fill="#be185d">        self</tspan><tspan fill="#0a0a0a">.stack = [</tspan></text>
+<text x="525" y="194" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#a1a1aa">05</text>
+<text x="561" y="194" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13" xml:space="preserve"><tspan fill="#c2410c">            "python"</tspan><tspan fill="#0a0a0a">,</tspan></text>
+<text x="525" y="218" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#a1a1aa">06</text>
+<text x="561" y="218" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13" xml:space="preserve"><tspan fill="#c2410c">            "rpa"</tspan><tspan fill="#0a0a0a">,</tspan></text>
+<text x="525" y="242" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#a1a1aa">07</text>
+<text x="561" y="242" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13" xml:space="preserve"><tspan fill="#c2410c">            "web"</tspan><tspan fill="#0a0a0a">,</tspan></text>
+<text x="525" y="266" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#a1a1aa">08</text>
+<text x="561" y="266" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13" xml:space="preserve"><tspan fill="#0a0a0a">        ]</tspan></text>
+<text x="525" y="290" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#a1a1aa">09</text>
+<text x="525" y="314" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#a1a1aa">10</text>
+<text x="561" y="314" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13" xml:space="preserve"><tspan fill="#7e22ce">    def </tspan><tspan fill="#0369a1">aprender</tspan><tspan fill="#0a0a0a">(</tspan><tspan fill="#be185d">self</tspan><tspan fill="#0a0a0a">, tema):</tspan></text>
+<text x="525" y="338" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#a1a1aa">11</text>
+<text x="561" y="338" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13" xml:space="preserve"><tspan fill="#7e22ce">        return </tspan><tspan fill="#c2410c">f"{tema} ✓"</tspan></text>
+<text x="525" y="362" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#a1a1aa">12</text>
+<rect x="561" y="348" width="9" height="17" fill="#8b5cf6"/>
+<line x1="505" y1="380" x2="945" y2="380" stroke="rgba(91,62,145,0.22)"/>
+<circle cx="527" cy="399" r="3.5" fill="#16a34a"/>
+<text x="539" y="403" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="11" fill="#64748b">main</text>
+<text x="925" y="403" text-anchor="end" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="11" fill="#64748b">UTF-8 · Python</text>
+</svg>
